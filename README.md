@@ -1,4 +1,4 @@
-# 🔐 ricardorufino.sec
+# 🔐 Ciber Segurança
 
 > Repositório com meus projetos de estudo e prática em **Cibersegurança**.  
 > Em transição de carreira para a área de Segurança da Informação — documentando cada passo da jornada.
