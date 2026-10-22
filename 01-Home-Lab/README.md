@@ -20,7 +20,7 @@ Montar um laboratório virtual para estudar e praticar Cibersegurança em ambien
 
 ### 1. Instalação do VMware e criação da VM
 
-![Setup VMware](./screenshots/setup-vmware.png)
+![Setup VMware](./screenshots/Oracle0VirtualBox.png)
 
 ### 2. Instalação do Ubuntu
 
