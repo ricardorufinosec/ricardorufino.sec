@@ -25,6 +25,8 @@ Montar um laboratório virtual para estudar e praticar Cibersegurança em ambien
 ### 2. Instalação do Ubuntu
 
 ![Instalação Ubuntu](./screenshots/instalacao-ubuntu.png)
+![Instalação Ubuntu](./screenshots/ubuntu.png)
+
 
 ### 3. Ambiente pronto
 
