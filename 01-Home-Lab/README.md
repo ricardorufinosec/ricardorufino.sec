@@ -22,10 +22,13 @@ Montar um laboratório virtual para estudar e praticar Cibersegurança em ambien
 
 ![Setup VMware](./screenshots/Oracle-VirtualBox.png)
 
-### 2. Instalação do Ubuntu
+Download: https://www.virtualbox.org/
+
+### 2. Instalação do Ubuntu Server
 
 ![Instalação Ubuntu](./screenshots/instalacao-ubuntu.png)
 
+download ISO: https://ubuntu.com/download/server
 
 ### 3. Ambiente pronto
 
