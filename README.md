@@ -1,4 +1,4 @@
-# 🔐 Ciber Segurança
+# 🔐 CiberSegurança
 
 > Repositório com meus projetos de estudo e prática em **Cibersegurança**.  
 > Em transição de carreira para a área de Segurança da Informação — documentando cada passo da jornada.
@@ -16,7 +16,7 @@ O objetivo é aprender fazendo — e documentar tudo para evoluir e compartilhar
 
 | # | Projeto | Descrição | Área | Status |
 |---|---------|-----------|------|--------|
-| 01 | [🔭 Home Lab de Segurança]) (./ #) | Laboratório virtual com Kali Linux + Metasploitable para simulação de ataques e defesas | Red & Blue Team | 🚧 Em andamento |
+| 01 | [🔭 Home Lab de Segurança](#) | Laboratório virtual com Kali Linux + Metasploitable para simulação de ataques e defesas | Red & Blue Team | 🚧 Em andamento |
 
 > Novos projetos serão adicionados conforme o aprendizado avança. Acompanhe! ⭐
 
