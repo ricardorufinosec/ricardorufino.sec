@@ -22,9 +22,11 @@ Utilizar o **Nmap** para escanear uma rede interna e descobrir hosts ativos, por
 
 ---
 
-## ⚙️ Configuração da Rede
+## ⚙️ Configuração da VM
 
-Antes de rodar o Nmap, foi necessário configurar os IPs manualmente nas duas VMs, pois a rede interna do VirtualBox não possui DHCP automático.
+Antes de rodar o Nmap, foi necessário configurar a VM em uma rede interna:
+
+
 
 **No Ubuntu Server (alvo):**
 ```bash
