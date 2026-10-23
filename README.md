@@ -17,6 +17,7 @@ O objetivo é aprender fazendo — e documentar tudo para evoluir e compartilhar
 | # | Projeto | Descrição | Área | Status |
 |---|---------|-----------|------|--------|
 | 01 | [🔭 Home Lab de Segurança](./01-Home-Lab) | Laboratório virtual com Ubuntu Linux | Red & Blue Team | Instalação Completa |
+| 01 | [🔭 Home Lab de Segurança](./02-Mapeamento-de-REdes) | Laboratório virtual com Ubuntu Linux | Red & Blue Team | Instalação Completa |
 
 > Novos projetos serão adicionados conforme o aprendizado avança. Acompanhe! ⭐
 
