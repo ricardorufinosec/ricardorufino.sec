@@ -1,4 +1,4 @@
-# Home Lab SOC/Blue Team — Fase 1: VirtualBox + Rede Interna + Wazuh (OVA)
+# Lab SOC/Blue Team — Fase 1: VirtualBox + Rede Interna + Wazuh (OVA)
 
 Primeira fase da montagem do meu lab de segurança do zero, com foco em SOC/Blue Team. O objetivo final é ter um ambiente isolado com atacante (Kali), alvo (Windows) e SIEM (Wazuh) para praticar detecção de ataques.
 
