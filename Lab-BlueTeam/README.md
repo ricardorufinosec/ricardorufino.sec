@@ -111,3 +111,20 @@ Cada fase e cada exercício tem seu próprio README detalhado — este arquivo p
 ## Sobre
 
 Projeto de estudo pessoal, parte da minha jornada de transição para SOC/Blue Team. Acompanho e documento o progresso também no [LinkedIn].
+
+---
+
+## 📚 Minha Jornada
+
+- 🎯 Foco atual: fundamentos de redes, Linux e reconhecimento (OSINT/Nmap)
+- 📖 Estudando na [DIO](https://dio.me) — plataforma de educação em tecnologia
+- 🏆 Objetivo: atuar profissionalmente em Segurança da Informação
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-oliveira-74bb73186/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ricardorufino)
+
+---
