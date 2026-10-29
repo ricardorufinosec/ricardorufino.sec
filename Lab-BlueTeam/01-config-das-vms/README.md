@@ -92,17 +92,11 @@ A tela certa é **Arquivo → Importar Appliance**, acessível também pelo atal
 
 ![Janela do VirtualBox Gerenciador](./assets/02-virtualbox-gerenciador.png)
 
-### "Instalei o Extension Pack, mas parece que não resolveu nada"
-
-Esse é um passo separado do import do OVA — o filtro `*.vbox-extpack` só serve para instalar a extensão em si (**Arquivo → Preferências → Extensões**), e não tem relação direta com o motivo do `.ova` não aparecer.
-
-![Filtro correto para instalar a extensão: *.vbox-extpack](./assets/04-filtro-vbox-extpack.png)
 
 ### Checando a versão do VirtualBox
 
 Para confirmar se a versão instalada é recente o suficiente (recomendado 7.x para suporte completo a appliances OVF 2.0 e Windows 11 com TPM): **Ajuda → Sobre o VirtualBox**.
 
-![Tela "Sobre o VirtualBox" mostrando a versão 7.2.16](./assets/06-sobre-virtualbox-versao.png)
 
 ## Checklist da Fase 1
 
