@@ -90,7 +90,7 @@ Causa: eu estava tentando importar pela janela errada do VirtualBox — a de **A
 
 A tela certa é **Arquivo → Importar Appliance**, acessível também pelo atalho `Ctrl+I`, a partir da janela principal do VirtualBox (Gerenciador).
 
-![Janela do VirtualBox Gerenciador](./assets/02-virtualbox-gerenciador.png)
+![Janela do VirtualBox Gerenciador](./Screenshots/Importarcao-Wazuh.png)
 
 
 ### Checando a versão do VirtualBox
