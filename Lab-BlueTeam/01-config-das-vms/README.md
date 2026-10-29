@@ -40,6 +40,8 @@ Este repositório documenta o passo a passo, os problemas que encontrei e como r
 3. **Importante:** baixar não é instalar — dê duplo clique no arquivo `.vbox-extpack` para abrir o instalador dentro do VirtualBox.
 4. Confirme em **Arquivo → Preferências → Extensões** que o pacote aparece na lista.
 
+![Downloads do Extension Pack e do ISO do Windows](./Screenshots/Oracle-VirtualBox.png)
+
 ### 2. Importar o OVA do Wazuh
 
 1. Baixe o `wazuh-<versão>.ova` na página oficial.
@@ -47,7 +49,6 @@ Este repositório documenta o passo a passo, os problemas que encontrei e como r
 3. Navegue até a pasta onde o `.ova` foi salvo e selecione o arquivo.
 4. Siga o assistente de importação até finalizar.
 
-![Downloads do Extension Pack e do ISO do Windows](./Screenshots/Oracle-VirtualBox.png)
 
 <table>
   <tr>
