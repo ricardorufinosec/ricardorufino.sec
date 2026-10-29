@@ -1,4 +1,4 @@
-# Home Lab SOC/Blue Team — do zero ao primeiro incidente detectado
+# Lab SOC/Blue Team — do zero ao primeiro incidente detectado
 
 Repositório onde documento a montagem de um home lab de segurança focado em SOC/Blue Team, do absoluto zero até os primeiros exercícios de detecção. Faz parte da minha transição de carreira de TI/Infraestrutura para Cibersegurança.
 
