@@ -97,6 +97,7 @@ A tela certa é **Arquivo → Importar Appliance**, acessível também pelo atal
 
 Para confirmar se a versão instalada é recente o suficiente (recomendado 7.x para suporte completo a appliances OVF 2.0 e Windows 11 com TPM): **Ajuda → Sobre o VirtualBox**.
 
+![Janela do VirtualBox Versao](./Screenshots/Versao.png)
 
 ## Checklist da Fase 1
 
