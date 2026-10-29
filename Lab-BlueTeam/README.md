@@ -13,12 +13,6 @@ Este repositório documenta o passo a passo, os problemas que encontrei e como r
 | Atacante | Kali Linux |
 | Rede | VirtualBox Internal Network (`labsoc`) |
 
-## Pré-requisitos
-
-- 16 GB de RAM no host (Wazuh sozinho já usa 8 GB recomendados)
-- 100 GB livres em disco
-- Virtualização habilitada na BIOS (Intel VT-x ou AMD-V)
-
 ## Downloads
 
 | Item | Link |
