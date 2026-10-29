@@ -52,7 +52,7 @@ Este repositório documenta o passo a passo, os problemas que encontrei e como r
 
 <table>
   <tr>
-    <td><img src="./Screenshots/Importacao-Wazuh.png" width="300"/></td>
+    <td><img src="./Screenshots/Importarcao-Wazuh.png" width="300"/></td>
     <td><img src="./Screenshots/Importacao-Wazuh-02.png" width="300"/></td>
     <td><img src="./Screenshots/Importacao-Wazuh-03.png" width="300"/></td>
   </tr>
