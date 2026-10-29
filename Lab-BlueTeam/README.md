@@ -70,7 +70,7 @@ Todas as VMs ficam numa **Rede Interna** isolada do VirtualBox (`labsoc`), sem a
 ├── README.md                      ← este arquivo, visão geral do projeto
 ├── fase-1-virtualbox-wazuh/
 │   ├── README.md                  ← passo a passo detalhado da Fase 1
-│   └── assets/                    ← prints
+│   └── Screenshots/                    ← prints
 ├── fase-2-config-wazuh/
 ├── fase-3-windows-alvo/
 ├── fase-4-kali/
