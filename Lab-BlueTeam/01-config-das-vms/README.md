@@ -49,7 +49,7 @@ Este repositório documenta o passo a passo, os problemas que encontrei e como r
 3. Navegue até a pasta onde o `.ova` foi salvo e selecione o arquivo.
 4. Siga o assistente de importação até finalizar.
 
-![Arquivo wazuh-4.14.9.ova baixado](./Screenshots/Importacao-Wazuh.png) ![Arquivo wazuh-4.14.9.ova baixado](./Screenshots/Importacao-Wazuh.png)![Arquivo wazuh-4.14.9.ova baixado](./Screenshots/Importacao-Wazuh.png)
+![Arquivo wazuh-4.14.9.ova baixado](./Screenshots/Importacao-Wazuh.png) ![Arquivo wazuh-4.14.9.ova baixado](./Screenshots/Importacao-Wazuh-02.png)![Arquivo wazuh-4.14.9.ova baixado](./Screenshots/Importacao-Wazuh-03.png)
 
 ### 3. Configurar a rede interna isolada
 
