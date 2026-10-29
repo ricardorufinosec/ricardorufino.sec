@@ -64,6 +64,14 @@ Este repositório documenta o passo a passo, os problemas que encontrei e como r
 2. No Adaptador 1, mude de **Bridge** para **Rede Interna**.
 3. Defina o nome da rede como `labsoc` — esse mesmo nome será usado em todas as VMs do lab (Windows, Kali), para que fiquem isoladas da rede doméstica e se enxerguem entre si.
 
+<table>
+  <tr>
+    <td><img src="./Screenshots/Config-Rede-Interna.png" width="300"/></td>
+    <td><img src="./Screenshots/Config-Rede-Interna-02.png" width="300"/></td>
+    <td><img src="./Screenshots/Config-Rede-Interna-03.png" width="300"/></td>
+  </tr>
+</table>
+
 ## IPs planejados
 
 | VM | IP |
