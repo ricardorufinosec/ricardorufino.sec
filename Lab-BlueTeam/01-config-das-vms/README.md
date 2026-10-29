@@ -76,9 +76,9 @@ Este repositório documenta o passo a passo, os problemas que encontrei e como r
 
 | VM | IP |
 |---|---|
-| Wazuh Manager | 192.168.56.10 |
-| Windows alvo | 192.168.56.20 |
-| Kali Linux | 192.168.56.30 |
+| Wazuh Manager | 192.168.0.30 |
+| Windows alvo | 192.168.0.20 |
+| Kali Linux | 192.168.0.10 |
 
 ## Problemas encontrados e soluções
 
