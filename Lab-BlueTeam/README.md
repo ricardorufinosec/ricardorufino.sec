@@ -69,7 +69,7 @@ Todas as VMs ficam numa **Rede Interna** isolada do VirtualBox (`labsoc`), sem a
 
 | # | Projeto | Descrição | Área | Status |
 |---|---------|-----------|------|--------|
-| 01 | [🔭 01 Configuração do VirtualBox](./01-config-das-vms) | Laboratório virtual com Ubuntu Linux | Red & Blue Team | Instalação Completa |
+| 01 | [🔭 01 Configuração do VirtualBox](./01-config-das-vms) | configuração do Virtual Box com o Kali Linux, Windows 11 e Wazuh | Red & Blue Team | Instalação Completa |
 | 01 | [🔭 Home Lab de Segurança](./02-Mapeamento-de-REdes) | Laboratório virtual com Ubuntu Linux | Red & Blue Team | Instalação Completa |
 
 > Novos projetos serão adicionados conforme o aprendizado avança. Acompanhe! ⭐
