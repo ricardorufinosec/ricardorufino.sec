@@ -63,6 +63,20 @@ Todas as VMs ficam numa **Rede Interna** isolada do VirtualBox (`labsoc`), sem a
 | Windows 11 ISO (avaliação, 90 dias) | https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise |
 | Kali Linux (VM pronta) | https://www.kali.org/get-kali/#kali-virtual-machines |
 
+---
+
+## 🗂️ Projetos
+
+| # | Projeto | Descrição | Área | Status |
+|---|---------|-----------|------|--------|
+| 01 | [🔭 01 Configuração do VirtualBox](./01-config-das-vms) | Laboratório virtual com Ubuntu Linux | Red & Blue Team | Instalação Completa |
+| 01 | [🔭 Home Lab de Segurança](./02-Mapeamento-de-REdes) | Laboratório virtual com Ubuntu Linux | Red & Blue Team | Instalação Completa |
+
+> Novos projetos serão adicionados conforme o aprendizado avança. Acompanhe! ⭐
+
+---
+
+
 ## Estrutura do repositório
 
 ```
