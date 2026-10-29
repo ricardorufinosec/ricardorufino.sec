@@ -86,7 +86,7 @@ Este repositório documenta o passo a passo, os problemas que encontrei e como r
 
 Causa: eu estava tentando importar pela janela errada do VirtualBox — a de **Adicionar Máquina Virtual** (filtro `*.xml, *.vbox`), que serve para abrir VMs já existentes, não appliances.
 
-![Filtro errado: *.xml, *.vbox](./assets/05-filtro-xml-vbox.png)
+![Filtro errado: *.xml, *.vbox](./Screenshots/Incorreto.png)
 
 A tela certa é **Arquivo → Importar Appliance**, acessível também pelo atalho `Ctrl+I`, a partir da janela principal do VirtualBox (Gerenciador).
 
